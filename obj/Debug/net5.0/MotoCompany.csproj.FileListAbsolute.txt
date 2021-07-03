@@ -1,0 +1,16 @@
+C:\Users\117Ro\source\repos\MotoCompany\bin\Debug\net5.0\MotoCompany.exe
+C:\Users\117Ro\source\repos\MotoCompany\bin\Debug\net5.0\MotoCompany.deps.json
+C:\Users\117Ro\source\repos\MotoCompany\bin\Debug\net5.0\MotoCompany.runtimeconfig.json
+C:\Users\117Ro\source\repos\MotoCompany\bin\Debug\net5.0\MotoCompany.runtimeconfig.dev.json
+C:\Users\117Ro\source\repos\MotoCompany\bin\Debug\net5.0\MotoCompany.dll
+C:\Users\117Ro\source\repos\MotoCompany\bin\Debug\net5.0\ref\MotoCompany.dll
+C:\Users\117Ro\source\repos\MotoCompany\bin\Debug\net5.0\MotoCompany.pdb
+C:\Users\117Ro\source\repos\MotoCompany\obj\Debug\net5.0\MotoCompany.csproj.AssemblyReference.cache
+C:\Users\117Ro\source\repos\MotoCompany\obj\Debug\net5.0\MotoCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\117Ro\source\repos\MotoCompany\obj\Debug\net5.0\MotoCompany.AssemblyInfoInputs.cache
+C:\Users\117Ro\source\repos\MotoCompany\obj\Debug\net5.0\MotoCompany.AssemblyInfo.cs
+C:\Users\117Ro\source\repos\MotoCompany\obj\Debug\net5.0\MotoCompany.csproj.CoreCompileInputs.cache
+C:\Users\117Ro\source\repos\MotoCompany\obj\Debug\net5.0\MotoCompany.dll
+C:\Users\117Ro\source\repos\MotoCompany\obj\Debug\net5.0\ref\MotoCompany.dll
+C:\Users\117Ro\source\repos\MotoCompany\obj\Debug\net5.0\MotoCompany.pdb
+C:\Users\117Ro\source\repos\MotoCompany\obj\Debug\net5.0\MotoCompany.genruntimeconfig.cache
